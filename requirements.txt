@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy
+requests
+openpyxl
+python-dotenv
+scikit-learn
+flask
+# MySQL을 쓸 때만
+sqlalchemy
+pymysql
